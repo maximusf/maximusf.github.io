@@ -1,0 +1,20 @@
+body{
+    background-color: #98C1D9;
+    font-family: sans-serif;
+}
+h1{
+    color: #25171A;
+    text-align:center;
+}
+
+.assign{
+    margin: 10px;
+    padding: 10px;
+    background-color: #6969B3;
+    display: flex;
+}
+
+.assign img{
+    width: 200px;
+    padding: 10px;
+}
